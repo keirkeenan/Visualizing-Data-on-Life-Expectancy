@@ -4,7 +4,7 @@
 ---
 
 ## Graph 1: US Life Expectancy Over Time
-![Line Graph of US Life Expectancy from 1900-2017]()
+![Line Graph of US Life Expectancy from 1900-2017](https://github.com/keirkeenan/hw_02/blob/main/US_life_expectancy(1900-2017).jpg)
 Add description here.
 
 Data on US life expectancy per year can be found [here](https://www.linkedin.com/pulse/looking-american-life-expectancy-python-json-stephen-stirling/?articleId=6487269192968998912).

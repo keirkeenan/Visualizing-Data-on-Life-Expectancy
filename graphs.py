@@ -26,7 +26,6 @@ fig, ax = plt.subplots()
 ax.plot(xs, ys)
 plt.xlabel('Year', fontweight='bold')
 plt.ylabel('Average Life Expectancy', fontweight='bold')
-plt.title('Average Life Expectancy in the US (1900-2017)')
 plt.legend()
 plt.savefig('US_life_expectancy(1900-2017).jpg')
 plt.show()
@@ -34,7 +33,6 @@ plt.show()
 
 '''
 Creating Graph 2 - Comparing Avg Life Expectancy of Different Countries in 2017
-    - 
 '''
 
 import csv
@@ -67,7 +65,6 @@ age.append(y3)
 plt.bar(countries, age, color = 'b', width = 0.72)
 plt.xlabel('Country', fontweight='bold')
 plt.ylabel('Average Life Expectancy', fontweight='bold')
-plt.title('Comparing Average Life Expectancy in Different Countries (2017)')
 plt.legend()
 plt.savefig('life_expectancy_diff_countries.jpg')
 plt.show()

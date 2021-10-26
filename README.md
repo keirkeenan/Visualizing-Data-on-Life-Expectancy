@@ -11,7 +11,7 @@ Data on US life expectancy per year can be found [here](https://www.linkedin.com
 
 
 ## Graph 2: Comparing Avg Life Expectancy of Different Countries in 2017
-![Bar Chart of Average Life Expectancy in Different Countries]()
+![Bar Chart of Average Life Expectancy in Different Countries](https://github.com/keirkeenan/hw_02/blob/main/life_expectancy_diff_countries.jpg)
 Add description here.
 
 Data on countries' life expectancy over the span of several years can be found [here](https://ourworldindata.org/grapher/life-expectancy-at-birth-total-years?tab=chart).
